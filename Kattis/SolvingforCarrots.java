@@ -1,4 +1,3 @@
-package Trivial;
 
 import java.util.Scanner;
 

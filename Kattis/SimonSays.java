@@ -1,4 +1,3 @@
-package Easy;
 
 import java.util.Scanner;
 import java.nio.file.*;
